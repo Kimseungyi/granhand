@@ -1,6 +1,5 @@
 
-//스크롤 되면 애니메이션 작동
-new WOW().init();
+
 
 
 $('.arrow').click(function () {
